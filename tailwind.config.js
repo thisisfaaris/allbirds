@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        poppins:['Poppins','system-ui'],
+        poppins:['Quicksand','Poppins','system-ui'],
       },
       colors:{
         lime:'#388e3c'
